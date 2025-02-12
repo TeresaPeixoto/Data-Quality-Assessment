@@ -9,7 +9,7 @@ This repository contains supplementary materials for the article **"Data Quality
 - **Contact:** {eos,tmop,oao,bmo}@estg.ipp.pt  
 
 ## Repository Contents
-- `figures/` – Figures used in the article  
+- `figures/` – Additional figures and visualizations related to the study   
 - `supplementary/` – Additional materials  
 
 ## Case Study Overview
