@@ -9,8 +9,8 @@ This repository contains supplementary materials for the article **"Data Quality
 - **Contact:** {eos,tmop,oao,bmo}@estg.ipp.pt  
 
 ## Repository Contents
-- `figures/` – Additional figures and visualizations related to the study   
-- `supplementary/` – Additional materials  
+- [`figures/`](https://github.com/TeresaPeixoto/Data-Quality-Assessment/tree/main/figures) – Additional figures and visualizations related to the study   
+<!--- `supplementary/` – Additional materials  -->
 
 ## Case Study Overview
 The case study focuses on analyzing IoT data quality using real-world datasets. The dataset consists of sensor readings collected over multiple sessions. The main objective is to evaluate data quality dimensions in IoT environments and validate the proposed data quality index. The dataset contains time-series data collected over multiple sessions, representing different operational conditions of the monitored system. The study assesses key data quality dimensions, including:  
